@@ -49,7 +49,7 @@ Scaffolder: HICMS
 		
 ```
 5) Output.
-
+```
     The output file "scaffold_set.fa" is the scaffolding result. 
 ```
 
